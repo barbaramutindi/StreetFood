@@ -1,3 +1,9 @@
 li{
     display: inline;
+    margin-right: 20px;
+}
+#dis{
+    display: inline;
+    margin-right: 15px;
+    padding-bottom: 20px;
 }
