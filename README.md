@@ -6,7 +6,7 @@
 [Barbara Mutindi](https://github.com/barbaramutindi)  
   
 # Description  
-This is a photographic site about wildlife.Our sole purpose is to communicate through our photos and let the world see beautiful places and animals.
+This is a Street Food site for a restraurant that provide the best food and services in town. Like they say, there is something profoundly satisfying about sharing a meal.
 
 
  ## License & Copyright
