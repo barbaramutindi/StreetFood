@@ -1,9 +1,14 @@
 li{
     display: inline;
-    margin-right: 20px;
+    margin-right: 100px;
 }
-#dis{
+ul{
     display: inline;
     margin-right: 15px;
-    padding-bottom: 20px;
+    text-decoration: none;
+    padding: 18px;
+    color: black;
+}
+#cont1{
+    background-color: #649549;
 }
