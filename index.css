@@ -105,8 +105,6 @@ h2{
 #eat{
     height: 550px;
     width: 650px;
-    
-
 }
 .eating{
     display: flex;
@@ -124,22 +122,23 @@ h2{
     padding-left: 5%;
     align-items: flex-start;
 }
-#center{
+.center{
     text-align: center;
     padding-top: 1.5%;
 }
 .card{
     display: flex;
     background-color: white;
-    height: 128px;
-    width: 240px;
-    border-radius: 0px 0px 32px 0px;
+    height: 120px;
+    width: 300px;
+    border-radius: 0px 0px 50px 0px;
 }
 .burger img{
     position: relative;
     left: -80px;
+    top: 15px;
     bottom: -24px;
-    height: 104px;
+    height: 150px;
     width: auto;
 }
 .title{
@@ -152,9 +151,34 @@ h2{
 .text{
     position: relative;
     text-align: center;
-    left: -40px;
-    bottom: -16px;
-    font-size: x-small;
-    transform: translateX(-96px);
-    transform: translateY(32px);
+    padding-left: 0%;
+    left: -60px;
+    /* bottom: -16px;  */
+    font-size: 10px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.display{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 480px; 
+    margin-left: 110px;
+    grid-template-columns: 450px 450px 450px;
+}
+.deals{
+    background-color: #C9ECB5;
+}
+.hot{
+    position: relative;
+    top: 10px;
+} 
+.meat{
+    position: relative;
+    left: -400px;
+    bottom: -60px;
+}
+.juice{
+    position: relative;
+    ;
 }
