@@ -170,15 +170,19 @@ h2{
     background-color: #C9ECB5;
 }
 .hot{
-    position: relative;
-    top: 10px;
-} 
+    display: flex;
+}
 .meat{
     position: relative;
     left: -400px;
-    bottom: -60px;
+    bottom: -220px;
+    height: 400px;
 }
 .juice{
     position: relative;
-    ;
+    top: -130px;
+    height: 700px;
+}
+.special{
+    padding-left: 70px;
 }
