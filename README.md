@@ -1,12 +1,12 @@
 
-=======
 # StreetFood
 ## Author  
   
 [Barbara Mutindi](https://github.com/barbaramutindi)  
   
 # Description  
-This is a Street Food site for a restraurant that provide the best food and services in town. Like they say, there is something profoundly satisfying about sharing a meal.
+This is a reproduction of the landing page of a restraunts website.
+Click [Here](https://barbaramutindi.github.io/StreetFood/) to visit the site.
 
 
  ## License & Copyright
@@ -14,4 +14,3 @@ This is a Street Food site for a restraurant that provide the best food and serv
 
 
 Licensed under [MIT License](LICENSE)
->>>>>>> 8d96c9d94f8ee058e3c3ebc7f032a34d4a9c83ae
