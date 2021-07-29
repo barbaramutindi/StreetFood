@@ -192,6 +192,8 @@ h2{
     background-color: #FFD77C;
     align-items: center;
     height: 500px;
+    position: relative;
+    z-index: 0;
     
 }
 .us{
@@ -219,6 +221,10 @@ input{
     border-radius: 40px;
     font-weight: 600;
     text-decoration: none;
+    position: relative;
+    z-index: 1;
+    bottom: -100px;
+    right: -80px;
 
 }
 .close{
